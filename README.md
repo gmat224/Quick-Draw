@@ -6,6 +6,7 @@
 
 - This is a game based on Google's Quick, Draw. It gets the player to draw a word, the API guesses it, and if the API can guess correctly the player wins. There are multiple game modes and settings to chose from
 - This game was made as our project for one of our courses, SOFTENG 206 at the University of Auckland. There are three people in this team, and we worked through 14 weeks to create this. 
+- The project was worked on with: https://github.com/boxy8 and https://github.com/MrJonoLloyd
 
 **Requirements**
 
